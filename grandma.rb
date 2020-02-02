@@ -1,8 +1,9 @@
 # Write a speak_to_grandma method.
 speak_to_grandma
-def speak_to_grandma (phrase)
+def speak_to_grandma phrase
   if phrase == "I LOVE YOU GRANDMa"
-    puts 
+    puts "I LOVE YOU TOO PUMPKIN!"
+    elsif phrase ==
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
